@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomCalendarViewStyle">
+        <item name="android:background">@drawable/rounded_background</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/light_grey</item>
+        <item name="android:colorControlActivated">@color/grey</item>
+        <item name="android:textColorPrimaryInverse">@color/blue</item>
+    </style>
+</resources>
